@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "SCP Offline"
+rootProject.name = "XSerial"

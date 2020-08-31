@@ -5,6 +5,14 @@
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
+
+        <item name="colorControlNormal"> @color/colorTerminalText_5 </item>
+        <item name="colorControlActivated"> @color/colorTerminalText_1 </item>
+        <item name="colorControlHighlight"> @color/colorTerminalText_1 </item>
+
+        <item name="android:textColor"> @color/colorTerminalText_1 </item>
+
+        <item name="fontFamily">@font/bront_font</item>
     </style>
 
     <style name="AppTheme.NoActionBar">

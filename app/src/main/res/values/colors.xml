@@ -3,4 +3,11 @@
     <color name="colorPrimary">#6200EE</color>
     <color name="colorPrimaryDark">#3700B3</color>
     <color name="colorAccent">#03DAC5</color>
+
+    <color name="colorTerminalText_1">#FCFCFC</color>
+    <color name="colorTerminalText_2">#C4C4C4</color>
+    <color name="colorTerminalText_3">#6E6E6E</color>
+    <color name="colorTerminalText_4">#4D4D4D</color>
+    <color name="colorTerminalText_5">#292929</color>
+    <color name="colorTerminalText_6">#0F0F0F</color>
 </resources>

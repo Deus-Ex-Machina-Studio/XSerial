@@ -1,16 +1,39 @@
 <resources>
-    <string name="app_name">SCP Offline</string>
+    <string name="app_name">XSerial</string>
     <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
     <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
-    <string name="nav_header_title" translatable="false">SCP Foundation</string>
-    <string name="nav_header_subtitle" translatable="false">https://github.com/Deus-Ex-Machina-Studio</string>
+    <string name="nav_header_title" translatable="false">XSerial</string>
+    <string name="nav_header_subtitle" translatable="false">Shogo Makishima</string>
     <string name="nav_header_desc" translatable="false">Navigation header</string>
     <string name="action_settings">Settings</string>
 
-    <string name="menu_home">Home</string>
-    <string name="menu_gallery" translatable="false">Gallery</string>
+    <string name="menu_terminal">Terminal</string>
+    <string name="menu_handbook">Handbook</string>
     <string name="menu_slideshow" translatable="false">Slideshow</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
-    <string name="menu_main_page">Menu</string>
+    <!-- Preference Titles -->
+    <string name="messages_header" translatable="false">Messages</string>
+    <string name="sync_header" translatable="false">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title" translatable="false">Your signature</string>
+    <string name="reply_title" translatable="false">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title" translatable="false">Sync email periodically</string>
+    <string name="attachment_title" translatable="false">Download incoming attachments</string>
+    <string name="attachment_summary_on" translatable="false">Automatically download attachments for incoming emails</string>
+    <string name="attachment_summary_off" translatable="false">Only download attachments when manually requested</string>
+    <string name="menu_settings">Settings</string>
+
+    <string name="startButton">Start</string>
+    <string name="stopButton">Stop</string>
+    <string name="clearButton">Clear</string>
+    <string name="sendButton">Send</string>
+
+    <string-array name="GCODE">
+
+    </string-array>
+    <string name="saveButton">Save</string>
+    <string name="loadButton">Load</string>
+
 </resources>
